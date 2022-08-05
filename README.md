@@ -1,3 +1,4 @@
+`Note: Since neither the bot nor the website is active, i'm archiving this repo.`
 # Matti-Memes
 This is the code for the Matt-Memes Discord-Bot (ID: 829999692762447883)
 
